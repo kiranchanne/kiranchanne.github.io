@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+title: Electrocardiogram (ECG)-Based Stress Monitoring Using HRV Features [Ongoing]
+date: 2014-07-15
+img: ECG_signal.png
+alt: image-alt
+github: https://github.com/kiranchanne/ECG-based-stress-monitoring
+project-date: Ongoing. GitHub repository will be updated as project progresses.
+description: An ongoing project that explores heart-rate variability (HRV) features extracted from ECG segments to classify psychological stress. Using a dataset of 50+ participants exposed to spider video clips, ECG signals are filtered, R-peaks are detected with the Pan-Tompkins algorithm, and time- and frequency-domain HRV features are computed. Features are standardized and analyzed using logistic regression with leave-one-subject-out cross-validation. This project provides experience in ECG signal processing, HRV feature extraction, and artifact removal. All implementation and analysis done in MATLAB.
+---

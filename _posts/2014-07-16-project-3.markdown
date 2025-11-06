@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+title: Ned2 Robot
+date: 2014-07-16
+img: Ned2 Robot.png
+alt: image-alt
+github: https://github.com/kiranchanne/ned2-robot
+project-date: September 2025 - December 2025
+description: Ned2 is a 6-axis robot designed for robustness and precision. I have completed multiple tasks such as pick-and-place operations, pneumatic actuation, workplace simulation, and precise end-effector trajectory planning. This experience allowed me to develop skills in robotic automation, forward and inverse kinematics, transformations, motion planning, and real-time control, All actions were implemented using Python. Check out my GitHub for more details!
+---

@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+title: Augmented Reality in the Operating Room [Ongoing]
+date: 2025-11-05
+img: ar_mockup.png
+caption: >
+  This image was taken from <a href="https://www.engineering.com/augmented-reality-is-used-in-minimally-invasive-spine-surgery/" target="_blank">Engineering.com</a> 
+  as a placeholder. Image will be updated as the project progresses.
+alt: image-alt
+github: https://github.com/kiranchanne/augmented-reality-in-the-operating-room
+project-date: Ongoing. GitHub repository will be updated as project progresses.
+description: Currently developing an AR application that provides surgeons with real-time visual feedback of patient anatomy and surgical tools using ArUco marker detection. Responsibilities include creating a program that creates and detects markers, ensuring accurate 2D pixel coodinate conversion to 3D spatial coordinates to provide precise pose estimation and transformations. This provides experience in AR integratoin, computer vision, and real-time tracking. Implementation is done through Python with OpenCV. 
+---

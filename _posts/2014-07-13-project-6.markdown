@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+title: Electromyogram (EMG) Device to Measure Action Potential of Biceps Brachii
+date: 2014-07-15
+img: EMG_signal.png
+alt: image-alt
+github: https://github.com/kiranchanne/EMG-device-to-measure-potention-of-biceps-brachii
+project-date: November 2024
+description: Developed an electromyogram (EMG) device to measure biceps brachii activity. The design included a signal processing circuit with differential and inverting amplifiers, high- and low-pass filters, and a full-wave rectifier to amplify and refine the EMG signal while minimizing noise. The EMG data was digitized and transmitted to an Arduino microcontroller for real-time analysis, using thresholding to automatically detect muscle contraction and relaxation. Gained experience in biomedical instrumentation, analog signal processing, microcontroller interfacing, and real-time signal analysis using LabView, Arduino IDE and Python.
+---

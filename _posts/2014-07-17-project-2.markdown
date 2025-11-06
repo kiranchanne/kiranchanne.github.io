@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+title: Assignment Tracker
+date: 2014-07-17
+img: Assignment_tracker_portfolio.png
+alt: image-alt
+project-date: October 2025
+live: https://kiranchanne.github.io/assignment-tracker/
+github: https://github.com/kiranchanne/assignment-tracker
+description: A web-based Assignment Tracker designed to help organize and manage coursework efficiently. The goal was to create a simple, straightforward tool to prioritize tasks and track their progress, with completed tasks organized in their own section for a clean and easy-to-read layout. Built with HTML, CSS, and JavaScript.
+---

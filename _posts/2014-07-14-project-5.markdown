@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+title: Temperature Sensor Interfacing and Real-Time Fan Control Using PIC24 Microcontroller
+date: 2014-07-14
+img: Proteus.png
+alt: image-alt
+github: https://github.com/kiranchanne/temperature-sensing-and-fan-control-using-microcontroller
+project-date: November 2024
+description: Developed a temperature-sensing control system by implementing a TMP36 analog thermometer with a PIC24 microcontroller. I integrated ADC routines for precise signal acquisition, configured UART for asynchronous serial communication, and programmed real-time fan control based on temperature thresholds. I gained experience in embedded system design, microcontroller programming, analog-to-digital conversion and sensor-driven automation.
+---
