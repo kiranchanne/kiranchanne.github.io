@@ -4,7 +4,7 @@ modal-id: 1
 title: Augmented Reality in the Operating Room
 date: 2025-11-05
 img: capstoneposter.JPEG
-img2: capstoneaward.jpg
+img2: capstoneaward.jpeg
 alt: image-alt
 github: https://github.com/kiranchanne/augmented-reality-in-the-operating-room
 project-date: September 2025 - May 2026
