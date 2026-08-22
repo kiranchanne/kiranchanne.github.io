@@ -3,10 +3,8 @@ layout: default
 modal-id: 1
 title: Augmented Reality in the Operating Room
 date: 2025-11-05
-img: ar_mockup.png
-caption: >
-  This image was taken from <a href="https://www.engineering.com/augmented-reality-is-used-in-minimally-invasive-spine-surgery/" target="_blank">Engineering.com</a> 
-  as a placeholder. Image will be updated as the project progresses.
+img: capstoneposter.png
+img2: groupcapstone.jpg
 alt: image-alt
 github: https://github.com/kiranchanne/augmented-reality-in-the-operating-room
 project-date: September 2025 - May 2026
