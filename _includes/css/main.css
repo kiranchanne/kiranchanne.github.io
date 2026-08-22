@@ -42,15 +42,6 @@ h6 {
     margin: 0 auto;
 }
 
-.img-responsive {
-  width: 200px;          /* set desired size */
-  height: 200px;
-  border-radius: 50%;    /* optional: circular crop, common for profile pics */
-  object-fit: cover;     /* crops instead of squishing */
-  object-position: center 20%; /* zoom/pan: adjust % to shift focus point */
-  transform: scale(1.3); /* optional: zoom in further beyond the crop */
-}
-
 .hero-header {
   background-image: url("../img/portfolio/background.jpg");
   background-size: cover;      
@@ -73,6 +64,9 @@ h6 {
   object-fit: cover;          
   object-position: center 10%; 
   margin-bottom: 20px;
+  transform: scale(1.9);        /* adjust this value to zoom in/out */
+  overflow: hidden;             /* won't do much here without a wrapper, see below */
+}
 }
 
 .hero-header::before {
