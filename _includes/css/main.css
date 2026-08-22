@@ -63,9 +63,7 @@ h6 {
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.8); 
   object-fit: cover;          
   object-position: center 10%; 
-  margin-bottom: 20px;
-  transform: scale(3.0);        /* adjust this value to zoom in/out */
-  overflow: hidden;             /* won't do much here without a wrapper, see below */
+  margin-bottom: 20px;             /* won't do much here without a wrapper, see below */
 }
 }
 
